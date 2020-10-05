@@ -17,6 +17,7 @@ depends=(
   'qt5-base'
   'qt5-webengine'
   'qt5-x11extras'
+  'qt5-networkauth'
   'openssl'
   'poco'
   'lua'
