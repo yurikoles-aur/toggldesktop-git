@@ -15,6 +15,7 @@ license=('BSD')
 depends=(
   'libxss'
   'qt5-base'
+  'qt5-networkauth'
   'qt5-webengine'
   'qt5-x11extras'
   'openssl'
